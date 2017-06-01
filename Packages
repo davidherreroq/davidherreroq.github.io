@@ -1,0 +1,13 @@
+Package: tv.othman.scothman
+Version: 10.5-1
+Architecture: iphoneos-arm
+Maintainer: scothman
+Filename: /snap++.deb
+Size: 2722502
+MD5sum: 227301ffcb5d2f85ea5b04f5854ee757
+SHA1: f3f709d3848bdb3e8b2b78b8b6fecd1649e0693c
+SHA256: a88d1fbd111526ff5ae6a8b446638025e8fc1a92bd9b189f07154853ddb8e94b
+Section: Tweaks
+Description: Snap++
+Author: scothman
+Name: snap++
